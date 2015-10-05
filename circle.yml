@@ -1,6 +1,6 @@
 # The deployment section should be excluded until
 # it is explicitly included in module 5
-# LETS SEE IF THIS WORKS - one more time
+# LETS SEE IF THIS WORKS - two more time
 deployment:
   dockerhub:
     branch: master
